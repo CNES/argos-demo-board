@@ -1,0 +1,187 @@
+(footprint "L_Wurth_WE-CNSW-1206"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Common Mode Line Filter, body 3.2x1.6x1.8mm, https://www.we-online.com/en/components/products/WE-CNSW#/articles/WE-CNSW-1206")
+	(tags "SMT")
+	(property "Reference" "REF**"
+		(at 0 -2.05 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "498f7267-3b13-4a4b-b4c1-a6279bceccc3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Wurth_WE-CNSW-1206"
+		(at 0 2.05 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b9d8481-a261-4a46-9c53-08b49fae6b02")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "50525b51-d18e-4eb5-bffe-ef6f74324a84")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86f18831-3a56-42d2-a351-ce47ae0c8dce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.6 1.06)
+		(end 1.6 1.06)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a9a4bf74-1f8e-4df1-befd-f271e0d751e3")
+	)
+	(fp_line
+		(start 0 -1.06)
+		(end 1.6 -1.06)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0bcda940-2f26-4568-a632-c9991575ee57")
+	)
+	(fp_rect
+		(start -2.15 -1.05)
+		(end 2.15 1.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "23cb46ec-8496-4ee4-bf64-95b9f0ae9ed7")
+	)
+	(fp_line
+		(start -1.6 -0.4)
+		(end -1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eac5e624-031b-4b8c-8d59-a51e7619c55d")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aaf3b6a5-aec1-4855-b76d-d6426fa7e4f1")
+	)
+	(fp_line
+		(start -1.2 -0.8)
+		(end -1.6 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dc8bd802-393f-41ec-8a32-62e8173ef373")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end -1.2 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "efcc9793-1350-48a3-98b6-6670c821072d")
+	)
+	(fp_line
+		(start 1.6 0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "84fa6091-dbca-4dfc-9974-199b298c3997")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "aa6416ad-362c-499a-9788-d8619b1d695c")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.35 -0.5)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "283a7f54-a6e2-4f59-b976-e26c895fe5ce")
+	)
+	(pad "2" smd rect
+		(at 1.35 -0.5)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bae7ca0f-92c3-4c33-8478-3773ab7df1d2")
+	)
+	(pad "3" smd rect
+		(at 1.35 0.5)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4c2e69c2-9fc1-48c7-afb9-d47e31ba1a33")
+	)
+	(pad "4" smd rect
+		(at -1.35 0.5)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0cbe24ed-12fd-4558-84ff-74c47740f0a3")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Librairies/3dmodels/L_Wurth_WE-CNSW-1206.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

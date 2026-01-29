@@ -1,0 +1,4 @@
+Default	False	2.0	3
+50Ω	True	30.0	3
+90Ω	False	2.0	3
+False	True	False
