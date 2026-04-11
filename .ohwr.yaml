@@ -1,0 +1,25 @@
+# The version of the .ohwr.yaml schema.
+version: '1.0.0'
+# The name of your project.
+name: 'Argos Demo Board'
+# Link to the Markdown description (README)
+description: 'https://raw.githubusercontent.com/CNES/argos-demo-board/main/README.md'
+# The website of your project.
+website: 'https://github.com/CNES/argos-demo-board'
+# The license (CERN-OHL-S-2.0 as stated in your docs)
+licenses: ['CERN-OHL-S-2.0']
+# Project image from your GitHub repository
+images:
+  - 'https://raw.githubusercontent.com/CNES/argos-demo-board/refs/heads/main/Document/Image/ARGOS%20DEMO%20N%C2%B015.png'
+# Link to the documentation (PDFs and README)
+documentation: 'https://github.com/CNES/argos-demo-board#readme'
+# Link to the issue tracker for bugs or improvements
+issues: 'https://github.com/CNES/argos-demo-board/issues'
+# Link to the latest production release (v1.2)
+latest_release: 'https://github.com/CNES/argos-demo-board/releases/latest'
+# Associated links
+links:
+  - name: 'CNES'
+    url: 'https://cnes.fr'
+  - name: 'Arribada Initiative'
+    url: 'https://arribada.org'
