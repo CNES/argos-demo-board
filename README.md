@@ -145,6 +145,9 @@ Components used on the board, with their official datasheets:
 | J1, J3, J5, J6, J7 | B2B-XH | Through-hole wire-to-board connectors | [→ Datasheet JST](https://www.jst.fr/core/file.get?path=doc/jst/family/pdf/exh0125.pdf) |
 | U1 | Argos SMD module | Transceiver Argos SMD for uplink Argos satellite | [→ Datasheet Arribada](https://github.com/arribada/featherwings-argos-smd-hw/wiki) |
 
+
+[CLICK HERE TO LAUNCH THE INTERACTIVE MAP](https://cnes.github.io/argos-demo-board/iBom.html)
+
 ---
 
 ## Getting Started
