@@ -213,3 +213,6 @@ ARGOS transmissions are subject to regulatory and operational constraints.
 - **Official Argos SMD Hardware Module** – by Arribada  
   The Arribada Argos SMD module is a compact **20 × 20 mm PCB** designed to operate as a standalone module or co-processor, enabling satellite communication via the **Kineis network**.  
   See link: <https://github.com/arribada/argos-smd-hw>
+
+## Interactive BOM
+<iframe src="./iBom.html" width="100%" height="600px" frameborder="0"></iframe>
