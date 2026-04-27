@@ -145,15 +145,6 @@ Components used on the board, with their official datasheets:
 | J1, J3, J5, J6, J7 | B2B-XH | Through-hole wire-to-board connectors | [→ Datasheet JST](https://www.jst.fr/core/file.get?path=doc/jst/family/pdf/exh0125.pdf) |
 | U1 | Argos SMD module | Transceiver Argos SMD for uplink Argos satellite | [→ Datasheet Arribada](https://github.com/arribada/featherwings-argos-smd-hw/wiki) |
 
-<details>
-  <summary><b>🛠️ Cliquez ici pour accéder à la BOM Interactive</b></summary>
-  <br>
-  
-  [![Ouvrir la BOM](https://img.shields.io/badge/Lancer-iBom.html-blue?style=for-the-badge)](./iBom.html)
-  
-  *Le fichier s'ouvrira dans un nouvel onglet via GitHub Pages.*
-</details>
-
 ---
 
 ## Getting Started
@@ -222,6 +213,3 @@ ARGOS transmissions are subject to regulatory and operational constraints.
 - **Official Argos SMD Hardware Module** – by Arribada  
   The Arribada Argos SMD module is a compact **20 × 20 mm PCB** designed to operate as a standalone module or co-processor, enabling satellite communication via the **Kineis network**.  
   See link: <https://github.com/arribada/argos-smd-hw>
-
-## Interactive BOM
-<iframe src="./iBom.html" width="100%" height="600px" frameborder="0"></iframe>
