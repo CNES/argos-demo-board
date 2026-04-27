@@ -2,13 +2,20 @@
 
 Demonstration and evaluation board designed to operate the **Arribada Argos SMD module** via USB and transmit **ARGOS uplink messages to the Kineis satellite constellation**.
 
+
+
 ---
 
 > *© 2025/2026 CNES – Paul Miailhe.*  
 > *This material is licensed under the CERN Open Hardware Licence Version 2 (CERN-OHL-S).*  
 > *See licence: https://ohwr.org/licences/* 
-> *See website: https://cnes.github.io/argos-demo-board/*
 
+> [![License: CERN-OHL-S](https://img.shields.io/badge/License-CERN--OHL--S-blue.svg?style=flat-square)](https://ohwr.org/licences/)
+> [![Website](https://img.shields.io/badge/Website-Argos_Demo_Board-0055A4?style=flat-square&logo=github&logoColor=white)](https://cnes.github.io/argos-demo-board/)
+> [![CNES](https://img.shields.io/badge/Organization-CNES-0055A4?style=flat-square&logo=airbus&logoColor=white)](https://cnes.fr/)
+> [![CLS](https://img.shields.io/badge/Partner-CLS-0081C6?style=flat-square)](https://www.cls.fr/)
+> [![Kineis](https://img.shields.io/badge/Partner-Kineis-6B21A8?style=flat-square)](https://www.kineis.com/)
+> [![Arribada](https://img.shields.io/badge/Partner-Arribada-E01E2E?style=flat-square)](https://arribada.org/)
 ---
 
 <p align="center">
