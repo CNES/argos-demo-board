@@ -11,7 +11,7 @@ Demonstration and evaluation board designed to operate the **Arribada Argos SMD 
 ---
 
 <p align="center">
-  <img src="Document/Image/ARGOS DEMO N°15.png" alt="Argos Demonstration Board" width="800"/>
+  <img src="Image/ARGOS DEMO N°15.png" alt="Argos Demonstration Board" width="800"/>
 </p>
 
 ---
@@ -36,7 +36,7 @@ This board targets engineers, students, and developers involved in **satellite c
 ## Hardware Design
 
 <p align="center">
-  <img src="Document/Image/ARGOS DEMO N°17.png" alt="Top and bottom" width="800"/>
+  <img src="Image/ARGOS DEMO N°17.png" alt="Top and bottom" width="800"/>
 </p>
 
 
@@ -118,7 +118,7 @@ The Argos Demo Board uses the following connector families:
 ### 4. Functional Diagram
 
 <p align="center">
-  <img src="Document/Image/ARGOS DEMO N°6.png" alt="Argos Demonstration Board – Functional Diagram" width="750"/>
+  <img src="Image/ARGOS DEMO N°6.png" alt="Argos Demonstration Board – Functional Diagram" width="750"/>
 </p>
 
 ---
@@ -184,7 +184,7 @@ ARGOS transmissions are subject to regulatory constraints and operational author
 - **STEP 3D** file available here:
 
 <p align="center">
-  <img src="Document/Image/ARGOS DEMO N°10.png" alt="Argos Demonstration Board – Mechanical Characteristics" width="750"/>
+  <img src="Image/ARGOS DEMO N°10.png" alt="Argos Demonstration Board – Mechanical Characteristics" width="750"/>
 </p>
 
 ---
