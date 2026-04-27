@@ -6,7 +6,7 @@ Demonstration and evaluation board designed to operate the **Arribada Argos SMD 
 
 > *© 2025/2026 CNES – Paul Miailhe.*  
 > *This material is licensed under the CERN Open Hardware Licence Version 2 (CERN-OHL-S).*  
-> *See licence: https://ohwr.org/licences/*
+> *See licence: https://ohwr.org/licences/* 
 > *See website: https://cnes.github.io/argos-demo-board/*
 
 ---
