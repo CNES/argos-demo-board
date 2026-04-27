@@ -10,7 +10,7 @@ website: 'https://github.com/CNES/argos-demo-board'
 licenses: ['CERN-OHL-S-2.0']
 # Project image from your GitHub repository
 images:
-  - 'https://raw.githubusercontent.com/CNES/argos-demo-board/refs/heads/main/Document/Image/ARGOS%20DEMO%20N%C2%B015.png'
+  - 'https://cnes.github.io/argos-demo-board/Image/ARGOS%20DEMO%20N%C2%B015.png'
 # Link to the documentation (PDFs and README)
 documentation: 'https://github.com/CNES/argos-demo-board#readme'
 # Link to the issue tracker for bugs or improvements
