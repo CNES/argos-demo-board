@@ -130,8 +130,9 @@ The Argos Demo Board uses the following connector families:
 </p>
 
 ---
-## Summary of the Bill of Materials (BOM)
+## Summary of the Bill of Materials (BOM) 
 
+[![Interactive BOM](https://img.shields.io/badge/Interactive-BOM-orange?style=for-the-badge&logo=cpu-z&logoColor=white)](https://cnes.github.io/argos-demo-board/ibom.html)  
 Components used on the board, with their official datasheets:
 
 | Reference | Part Number | Role / Function | Datasheet |
@@ -152,9 +153,6 @@ Components used on the board, with their official datasheets:
 | J4 | FTSH-105-01-L-DV-K | JTAG 10-PINS | [→ Datasheet Samtec](https://suddendocs.samtec.com/catalog_english/ftsh_smt.pdf?_gl=1*muazsd*_gcl_au*MTcxOTU2ODE1My4xNzY3ODg0MzAy*_ga*MTU3MjM5MTY3NS4xNzY3ODg0MzAz*_ga_3KFNZC07WW*czE3Njc4ODQzMDIkbzEkZzAkdDE3Njc4ODQzMDIkajYwJGwwJGgxMjE2ODMwMTY0) |
 | J1, J3, J5, J6, J7 | B2B-XH | Through-hole wire-to-board connectors | [→ Datasheet JST](https://www.jst.fr/core/file.get?path=doc/jst/family/pdf/exh0125.pdf) |
 | U1 | Argos SMD module | Transceiver Argos SMD for uplink Argos satellite | [→ Datasheet Arribada](https://github.com/arribada/featherwings-argos-smd-hw/wiki) |
-
-
-[CLICK HERE TO LAUNCH THE INTERACTIVE MAP](https://cnes.github.io/argos-demo-board/iBom.html)
 
 ---
 
